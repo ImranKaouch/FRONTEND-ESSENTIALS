@@ -1,1 +1,0 @@
-alert ('De link werkt!')
