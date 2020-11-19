@@ -1,0 +1,33 @@
+
+.block {
+    height: 50px;
+    background-color: blue;
+    display: block;
+}
+
+.breed {
+    background-color: blue;
+    display: block;
+}
+
+.kind3 {
+position: fixed;
+bottom: 0px;
+background-color: plum;
+}
+
+.kind2 {
+    position: absolute;
+    background-color: orangered;
+}
+.kind1 {
+    background-color: green;
+}
+
+.h1 {
+    top: 10px;
+    bottom: 30px;
+}
+
+
+
