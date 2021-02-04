@@ -1,0 +1,58 @@
+/* Hier hoef je niks mee te doen */
+*{
+    font-size:0;
+}
+
+.container
+{
+height:440px;
+width:708px;
+border:1px solid black;
+}
+
+.row
+{
+display:block;
+height:200px;
+}
+
+.rowsm
+{
+height:40px;
+display:block;
+}
+.links
+{
+  height:190px;
+  width:140px;
+  background-color:red;
+  display:inline-block;
+}
+.midden
+{
+  height:200px;
+  width:40px;
+  background-color:darkblue;
+  display:inline-block;
+  border-right: 10px solid white;
+  border-left: 10px solid white
+}
+.rechts
+{
+  height:190px;
+  width:508px;
+  background-color:red;
+  display:inline-block;
+}
+
+.midden2
+{
+  height:40px;
+  width:708px;
+  background-color:darkblue;
+  
+}
+.borderb
+{
+  border-bottom: 10px solid white;
+}
