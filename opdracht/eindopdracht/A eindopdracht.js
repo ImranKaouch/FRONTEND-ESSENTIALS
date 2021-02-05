@@ -12,4 +12,3 @@ prompt("Wat is je achternaam?");
 prompt("Wat is je email?");
 prompt ("Wat is je leeftijd?")
 prompt("Wat is je woonplaats?");
-
