@@ -1,0 +1,16 @@
+table {
+    margin-left: 350px;
+    margin-top: 10px;
+    border: 4px solid cornflowerblue;
+    padding-top: 1px;
+}
+
+#container {
+    border: 5px solid black;
+    margin-right: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position:absolute;
+}
+
