@@ -29,4 +29,4 @@ document.getElementById("voornaam").innerHTML= bezoeker.voornaam;
 document.getElementById("achternaam").innerHTML= bezoeker.achternaam;
 document.getElementById("email").innerHTML= bezoeker.email;
 document.getElementById("leeftijd").innerHTML= bezoeker.leeftijd;
-document.getElementById("woonplaats").innerHTML= bezoeker.leeftijd;
+document.getElementById("woonplaats").innerHTML= bezoeker.woonplaats;
